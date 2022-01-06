@@ -1,0 +1,15 @@
+.pages {
+    color: red;
+    display: flex;
+    list-style-type: none;
+}
+.num { 
+    /* background-color: blue; */
+    padding: 6px;
+    background-color: lightgrey;
+    border: solid black 0.5px;
+}
+.page {
+    
+    text-decoration: none;  
+}

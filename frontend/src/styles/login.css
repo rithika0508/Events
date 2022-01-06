@@ -1,0 +1,15 @@
+
+.register {
+    /* background-image: url("https://media.istockphoto.com/vectors/vector-illustration-of-sky-blue-and-white-plain-grungy-background-vector-id1077910888"); */
+    /* background-color: white; */
+    /* background-image: "https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?size=626&ext=jpg"; */
+    width: 25%;
+    margin: auto;
+}
+
+.btn {
+    /* padding-top: 60px; */
+    display: block !important;
+    margin: auto;
+
+}
